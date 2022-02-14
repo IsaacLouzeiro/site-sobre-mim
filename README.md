@@ -1,2 +1,4 @@
 # site-sobre-mim
-  Uma página que fala sobre mim. Atividade do professor Gabriel Augusto do Instituto Proa.
+  Uma página simples sobre mim.
+  
+  A simple page about me.

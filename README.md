@@ -8,7 +8,7 @@
 
 ### -- About
 
-#### A simple page about me.
+#### A simple webpage about me.
 
 ### -- Technologies
 
